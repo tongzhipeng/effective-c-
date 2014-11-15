@@ -18,6 +18,7 @@ public:
 	}
 private:
 	int m_a;
+	const int m_b = 3;
 
 	friend const Rational operator* (const Rational& lhs, const Rational& rhs);
 };

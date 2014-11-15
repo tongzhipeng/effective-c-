@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DemoCodes", "DemoCodes\Demo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "non-member-operator", "non-member-operator\non-member-operator.vcxproj", "{AC5000FD-84E3-49A6-9940-96865516E3B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "const_iterator", "const_iterator\const_iterator.vcxproj", "{781B50E4-EF9C-4754-90A3-E9D793141170}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextCode_const_overload", "TextCode_const_overload\TextCode_const_overload.vcxproj", "{CA8B2556-EA15-4886-BE37-8A46C541B58D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +25,14 @@ Global
 		{AC5000FD-84E3-49A6-9940-96865516E3B6}.Debug|Win32.Build.0 = Debug|Win32
 		{AC5000FD-84E3-49A6-9940-96865516E3B6}.Release|Win32.ActiveCfg = Release|Win32
 		{AC5000FD-84E3-49A6-9940-96865516E3B6}.Release|Win32.Build.0 = Release|Win32
+		{781B50E4-EF9C-4754-90A3-E9D793141170}.Debug|Win32.ActiveCfg = Debug|Win32
+		{781B50E4-EF9C-4754-90A3-E9D793141170}.Debug|Win32.Build.0 = Debug|Win32
+		{781B50E4-EF9C-4754-90A3-E9D793141170}.Release|Win32.ActiveCfg = Release|Win32
+		{781B50E4-EF9C-4754-90A3-E9D793141170}.Release|Win32.Build.0 = Release|Win32
+		{CA8B2556-EA15-4886-BE37-8A46C541B58D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA8B2556-EA15-4886-BE37-8A46C541B58D}.Debug|Win32.Build.0 = Debug|Win32
+		{CA8B2556-EA15-4886-BE37-8A46C541B58D}.Release|Win32.ActiveCfg = Release|Win32
+		{CA8B2556-EA15-4886-BE37-8A46C541B58D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
